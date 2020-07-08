@@ -1,0 +1,13 @@
+name: routeApp17
+title: routeApp17
+username:
+account: datascribe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2470460
+bundleId: 3285326
+url: https://datascribe.shinyapps.io/routeApp17/
+when: 1592447436.14214
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rbuildignore|DESCRIPTION|NAMESPACE|app/.DS_Store|app/.Rapp.history|app/.Rhistory|man/comprss.Rd|man/createFlightgeo.Rd|man/launchApp.Rd|man/makeInFlightDf.Rd|man/readOpenSkyStates.Rd|www/.DS_Store|inst

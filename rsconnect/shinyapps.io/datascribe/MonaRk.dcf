@@ -1,0 +1,13 @@
+name: MonaRk
+title: MonaRk
+username:
+account: datascribe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2474416
+bundleId: 3337691
+url: https://datascribe.shinyapps.io/MonaRk/
+when: 1593591494.03115
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rbuildignore|DESCRIPTION|NAMESPACE|www/.DS_Store|inst|man|vignettes

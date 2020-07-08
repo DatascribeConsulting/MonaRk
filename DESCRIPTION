@@ -1,0 +1,21 @@
+Package: MonaRk
+Title: Flight Path Variability Exploration
+Version: 0.0.0.9000
+Author: Rachel Schweiker <rachel@datascribeconsulting.com> [aut, cre]
+Description: Compare the flight path variability of routes associated with weather through a shiny app. Includes functions for parsing open source flight and weather data.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.4.0), shiny, shinydashboard, data.table, DT, ggplot2, plotly, colourpicker, leaflet, lubridate, sp, rgeos, rgdal, sf, stringr, dplyr, R.utils, svglite, lwgeom
+Imports: shinythemes, shinycssloaders, Imap
+Collate: 
+	'AddCovars.R'
+	'AppUtils.R'
+	'AppCreateFlightgeo.R'
+	'AppLaunch.R'
+	'CompareFlights.R'
+	'DelayParsing.R'
+	'SigmetParsing.R'
+	'StatesParsing.R'
+	'StormsParsing.R'
+RoxygenNote: 7.1.1
