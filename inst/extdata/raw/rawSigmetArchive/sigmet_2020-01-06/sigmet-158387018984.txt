@@ -1,0 +1,103 @@
+ARCHIVED SIGMET OF: 20200106 // FROM: 0 TO: 23  UTC
+SIGMET REGION: NEAR-MID_EAST 
+AIRSPACE REQUESTED: ALL*
+
+=======================================================================
+WSLB31 OLBA 060020
+OLBA SIGMET 1 VALID 060025/060425 OLBA-
+OLBA BEIRUT FIR EMBD TS OBS AND FCST W OF OLBA  FIR TOP ABV FL300
+    MOV E INTSF
+
+=======================================================================
+WSPK31 OPLA 060100
+OPLA SIGMET 01 VALID 060200/060600 OPLA-
+OPLR LAHORE FIR ISOL TS FCST BTN 30N TO 35N AND 66E TO 75E MOV E
+INTSF
+
+=======================================================================
+WSTU31 LTAC 060122
+LTAA SIGMET 1 VALID 060100/060500 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0100Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 060325
+LTAA SIGMET 2 VALID 060300/060600 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0300Z N37 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSPK31 OPLA 060520
+OPLA SIGMET 02 VALID 060600/061000 OPLA-
+OPLR LAHORE FIR ISOL TS FCST BTN 30N TO 35N AND 70E TO 75E MOV E NC
+
+=======================================================================
+WSTU31 LTAC 060528
+LTAA SIGMET 3 VALID 060500/060900 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0500Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 060615
+LTAA SIGMET 4 VALID 060600/060900 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0600Z N37 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 060800
+LTAA SIGMET 5 VALID 060800/061100 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0800Z N38 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSPK31 OPLA 060930
+OPLA SIGMET 03 VALID 061000/061400 OPLA-
+OPLR LAHORE FIR ISOL TS FCST BTN 30N TO 35N AND 70E TO 75E MOV E NC
+
+=======================================================================
+WSTU31 LTAC 061000
+LTAA SIGMET 6 VALID 061000/061300 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1000Z N37 E031 N37 E032  FCST MOV NE
+12KT NC
+
+=======================================================================
+WSTU31 LTAC 061310
+LTAA SIGMET 7 VALID 061300/061600 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1300Z N36 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSPK31 OPKC 061440
+OPKR SIGMET 01 VALID 061500/061900 OPKC-
+OPKR KARACHI FIR ISOL EMBD TS FCST N OF N25 TO N30 E OF E62 TO E66
+MOV E INTSF
+
+=======================================================================
+WSPK31 OPLA 061645
+OPLR SIGMET 04 VALID 061700/062100 OPLA-
+OPLR LAHORE FIR ISOL TS OBS BTN 31N TO 35N AND 70E TO 75E MOV E
+INTSF
+
+=======================================================================
+WSPK31 OPLA 061645
+OPLA SIGMET 04 VALID 061700/062100 OPLA-
+OPLR LAHORE FIR ISOL TS OBS BTN 31N TO 35N AND 70E TO 75E MOV E
+INTSF
+
+=======================================================================
+WSTU31 LTAC 061815
+LTAA SIGMET 8 VALID 061800/062100 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1800Z N36 E032 N37 E031 N37 E035
+FCST MOV NE 12KT NC
+
+=======================================================================
+WSPK31 OPKC 062000
+OPKR SIGMET 01 VALID 062000/062359 OPKC-
+OPKR KARACHI FIR ISOL EMBD TS FCST N OF N24 TO N26 E OF E62 TO E66
+MOV E INTSF
+
+=======================================================================
+WSTU31 LTAC 062110
+LTAA SIGMET 9 VALID 062100/062400 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 2100Z N36 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 062320
+LTAA SIGMET 10 VALID 062300/070200 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 2300Z N37 E035 FCST MOV NE 12KT NC
+
+

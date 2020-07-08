@@ -1,0 +1,71 @@
+ARCHIVED SIGMET OF: 20191230 // FROM: 0 TO: 23  UTC
+SIGMET REGION: NEAR-MID_EAST 
+AIRSPACE REQUESTED: ALL*
+
+=======================================================================
+WSTU31 LTAC 300220
+LTAA SIGMET 1 VALID 300200/300500 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0200Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 300505
+LTAA SIGMET 2 VALID 300500/300800 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0500Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 300730
+LTAA SIGMET 3 VALID 300700/301000 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0700Z N36 E033 - N37 E035
+FCST MOV SE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 300830
+LTAA SIGMET 4 VALID 300800/301200 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 0800Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSLB31 OLBA 300910
+OLBA SIGMET 1 VALID 300910/301310 OLBA-
+OLBA BEIRUT FIR EMBD TS OBS AND FCST W OF OLBA  FIR TOP ABV FL300
+    NC
+
+=======================================================================
+WSTU31 LTAC 301000
+LTAA SIGMET 5 VALID 301000/301300 LTAC-
+LTAA ANKARA FIR OBS SQL TS FCST S OF LINE N3630 E03316 - N3804
+E03610 MOV N 15KT NC
+
+=======================================================================
+WSTU31 LTAC 301205
+LTAA SIGMET 6 VALID 301200/301500 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1200Z N36 E032 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 301315
+LTAA SIGMET 7 VALID 301300/301600 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1300Z N37 E031 FCST MOV NE 12KT NC
+
+=======================================================================
+WSLB31 OLBA 301345
+OLBA SIGMET 2 VALID 301340/301700 OLBA-
+    OLBA BEIRUT FIR EMBD TS OBS AND FCST W OF OLBA FIR TOP ABV FL300
+    NC
+
+=======================================================================
+WSTU31 LTAC 301540
+LTAA SIGMET 8 VALID 301630/301930 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1630Z N37 E035 FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 301610
+LTAA SIGMET 9 VALID 301600/301900 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 1600Z N37 E037 - N37 E031
+FCST MOV NE 12KT NC
+
+=======================================================================
+WSTU31 LTAC 302300
+LTAA SIGMET 10 VALID 302300/310200 LTAC-
+LTAA ANKARA FIR SQL TS OBS AT 2300Z N37 E031 - N37 E032
+FCST MOV NE 12KT NC
+
+

@@ -1,0 +1,404 @@
+ARCHIVED SIGMET OF: 20200203 // FROM: 0 TO: 23  UTC
+SIGMET REGION: CONV-EAST_US 
+AIRSPACE REQUESTED: ALL*
+
+=======================================================================
+W
+WSUS31 KKCI 030055
+SIGE
+MKCE WST 030055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030255-030655
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 030055
+SIGE
+MKCE WST 030055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030255-030655
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 030155
+SIGE
+MKCE WST 030155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030355-030755
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030155
+SIGE
+MKCE WST 030155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030355-030755
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030255
+SIGE
+MKCE WST 030255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030455-030855
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030255
+SIGE
+MKCE WST 030255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030455-030855
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030355
+SIGE
+MKCE WST 030355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030555-030955
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030355
+SIGE
+MKCE WST 030355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030555-030955
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030455
+SIGE
+MKCE WST 030455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030655-031055
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030455
+SIGE
+MKCE WST 030455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030655-031055
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030555
+SIGE
+MKCE WST 030555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030755-031155
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030555
+SIGE
+MKCE WST 030555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030755-031155
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030655
+SIGE
+MKCE WST 030655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030855-031255
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030655
+SIGE
+MKCE WST 030655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030855-031255
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030755
+SIGE
+MKCE WST 030755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030955-031355
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030755
+SIGE
+MKCE WST 030755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 030955-031355
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030855
+SIGE
+MKCE WST 030855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031055-031455
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030855
+SIGE
+MKCE WST 030855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031055-031455
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 030955
+SIGE
+MKCE WST 030955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031155-031555
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+WSUS31 KKCI 030955
+SIGE
+MKCE WST 030955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031155-031555
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.
+
+=======================================================================
+W
+WSUS31 KKCI 031055
+SIGE
+MKCE WST 031055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031255-031655
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031055
+SIGE
+MKCE WST 031055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031255-031655
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031155
+SIGE
+MKCE WST 031155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031355-031755
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031155
+SIGE
+MKCE WST 031155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031355-031755
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031255
+SIGE
+MKCE WST 031255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031455-031855
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031255
+SIGE
+MKCE WST 031255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031455-031855
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031355
+SIGE
+MKCE WST 031355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031555-031955
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031355
+SIGE
+MKCE WST 031355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031555-031955
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031455
+SIGE
+MKCE WST 031455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031655-032055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031455
+SIGE
+MKCE WST 031455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031655-032055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031555
+SIGE
+MKCE WST 031555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031755-032155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031555
+SIGE
+MKCE WST 031555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031755-032155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031655
+SIGE
+MKCE WST 031655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031855-032255
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031755
+SIGE
+MKCE WST 031755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031955-032355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031755
+SIGE
+MKCE WST 031755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 031955-032355
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031855
+SIGE
+MKCE WST 031855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032055-040055
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031855
+SIGE
+MKCE WST 031855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032055-040055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 031955
+SIGE
+MKCE WST 031955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032155-040155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 031955
+SIGE
+MKCE WST 031955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032155-040155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 032055
+SIGE
+MKCE WST 032055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032255-040255
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 032055
+SIGE
+MKCE WST 032055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032255-040255
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 032155
+SIGE
+MKCE WST 032155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032355-040355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 032155
+SIGE
+MKCE WST 032155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 032355-040355
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 032255
+SIGE
+MKCE WST 032255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 040055-040455
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 032255
+SIGE
+MKCE WST 032255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 040055-040455
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS31 KKCI 032355
+SIGE
+MKCE WST 032355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 040155-040555
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS31 KKCI 032355
+SIGE
+MKCE WST 032355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 040155-040555
+TS ARE NOT EXPD.
+
+

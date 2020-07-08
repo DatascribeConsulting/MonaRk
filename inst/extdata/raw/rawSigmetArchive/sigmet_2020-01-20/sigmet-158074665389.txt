@@ -1,0 +1,377 @@
+ARCHIVED SIGMET OF: 20200120 // FROM: 0 TO: 23  UTC
+SIGMET REGION: CONV-CENT_US 
+AIRSPACE REQUESTED: ALL*
+
+=======================================================================
+W
+WSUS32 KKCI 200055
+SIGC
+MKCC WST 200055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200255-200655
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200055
+SIGC
+MKCC WST 200055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200255-200655
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200155
+SIGC
+MKCC WST 200155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200355-200755
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200155
+SIGC
+MKCC WST 200155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200355-200755
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200255
+SIGC
+MKCC WST 200255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200455-200855
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200255
+SIGC
+MKCC WST 200255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200455-200855
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200355
+SIGC
+MKCC WST 200355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200555-200955
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200355
+SIGC
+MKCC WST 200355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200555-200955
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200455
+SIGC
+MKCC WST 200455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200655-201055
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200555
+SIGC
+MKCC WST 200555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200755-201155
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200555
+SIGC
+MKCC WST 200555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200755-201155
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200655
+SIGC
+MKCC WST 200655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200855-201255
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200655
+SIGC
+MKCC WST 200655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200855-201255
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200755
+SIGC
+MKCC WST 200755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200955-201355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200755
+SIGC
+MKCC WST 200755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 200955-201355
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200855
+SIGC
+MKCC WST 200855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201055-201455
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200855
+SIGC
+MKCC WST 200855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201055-201455
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 200955
+SIGC
+MKCC WST 200955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201155-201555
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 200955
+SIGC
+MKCC WST 200955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201155-201555
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201055
+SIGC
+MKCC WST 201055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201255-201655
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201155
+SIGC
+MKCC WST 201155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201355-201755
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201155
+SIGC
+MKCC WST 201155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201355-201755
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201255
+SIGC
+MKCC WST 201255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201455-201855
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201255
+SIGC
+MKCC WST 201255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201455-201855
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201355
+SIGC
+MKCC WST 201355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201555-201955
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201355
+SIGC
+MKCC WST 201355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201555-201955
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201455
+SIGC
+MKCC WST 201455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201655-202055
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201455
+SIGC
+MKCC WST 201455
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201655-202055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201555
+SIGC
+MKCC WST 201555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201755-202155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201555
+SIGC
+MKCC WST 201555
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201755-202155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201655
+SIGC
+MKCC WST 201655
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201855-202255
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201755
+SIGC
+MKCC WST 201755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201955-202355
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201755
+SIGC
+MKCC WST 201755
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 201955-202355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201855
+SIGC
+MKCC WST 201855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202055-210055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201855
+SIGC
+MKCC WST 201855
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202055-210055
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 201955
+SIGC
+MKCC WST 201955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202155-210155
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 201955
+SIGC
+MKCC WST 201955
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202155-210155
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 202055
+SIGC
+MKCC WST 202055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202255-210255
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 202055
+SIGC
+MKCC WST 202055
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202255-210255
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 202155
+SIGC
+MKCC WST 202155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202355-210355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 202155
+SIGC
+MKCC WST 202155
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 202355-210355
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 202255
+SIGC
+MKCC WST 202255
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 210055-210455
+TS ARE NOT EXPD.
+
+=======================================================================
+W
+WSUS32 KKCI 202355
+SIGC
+MKCC WST 202355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 210155-210555
+TS ARE NOT EXPD.
+
+=======================================================================
+WSUS32 KKCI 202355
+SIGC
+MKCC WST 202355
+CONVECTIVE SIGMET...NONE
+OUTLOOK VALID 210155-210555
+TS ARE NOT EXPD.
+
+
