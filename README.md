@@ -8,7 +8,7 @@ Download the MonaRk folder and follow the "Installing Package" instructions with
 Functions can be used individually as well.
 
 #### Running the App
-A version of the app is at https://datascribe.shinyapps.io/MonaRk/.
+A version of the app is at https://datascribe.shinyapps.io/MonaRk/. If launching the app for the first time, go to the help tab and watch the tutorial video.
 
 #### Updating Data
 Every few months, the AddMondays() function will be run to update the data used in the app. Instructions are in vignettes/monaRk_instructions.html. 
